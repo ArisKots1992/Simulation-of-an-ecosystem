@@ -1,6 +1,6 @@
 #include<cstdlib>
 #include<iostream>
-
+//List class definition
 
 class Animal;
 typedef Animal* Data;
