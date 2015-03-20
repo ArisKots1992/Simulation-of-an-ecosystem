@@ -28,7 +28,7 @@ Ecosystem::Ecosystem(int terrainSize_, string season_, int num_of_hills, int *nu
 
 }
 
-
+//destructor
 Ecosystem::~Ecosystem()
 
 {
