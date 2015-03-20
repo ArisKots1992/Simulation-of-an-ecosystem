@@ -1,6 +1,6 @@
 #include <iostream>
 #include "classes.h"
-
+//Plants class functions
 using namespace std;
 
 Plants::Plants(point position_, string name_, char token_, double breedingProb_, double illnessProb_, int life_, int lifefactor_)
