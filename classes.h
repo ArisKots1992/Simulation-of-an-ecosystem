@@ -2,7 +2,7 @@ struct point{
 	int x;
 	int y;
 };
-
+//
 
 class Ecosystem;
 class List;
