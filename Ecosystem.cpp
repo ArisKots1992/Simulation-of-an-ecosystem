@@ -5,7 +5,7 @@
 
 using namespace std;
 
-Ecosystem::Ecosystem(int terrainSize_, string season_, int num_of_hills, int *num_of_plants, int *num_of_animals)
+Ecosystem::Ecosystem(int terrainSize_, string season_, int num_of_hills, int *num_of_plants, int *num_of_animals) 
 	:	terrainSize(terrainSize_), season(season_)
 
 {
