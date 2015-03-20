@@ -7,6 +7,6 @@ Compile via g++ compiler:
 ```	
 and then you can link the .o files with:
 ```
-	g++ -o filename *.o	.
+	g++ -o filename *.o
 ```
 *Programmed in 2011*
