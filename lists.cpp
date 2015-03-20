@@ -44,7 +44,7 @@ void List::out(){
          Node* after;
 
          tmp=first;
-         after=tmp->next;
+         after=tmp->next; 
 
          if(nodes==0){cout<<"ERRORRRRRRR\n"; return ;}
 
