@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <iostream>
-//animal class functions DONE!
+//animal class functions Done!
 using namespace std;
 /*//////////////////////////////////////////////////////////////////////////////*/			   
 /*--------------------Animals_functions-----------------------------------------*/
